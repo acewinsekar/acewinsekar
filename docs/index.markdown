@@ -13,6 +13,6 @@ has_toc: false
 
 [Here's my favourite youtube video - The wimbledon 2008 final](https://www.youtube.com/watch?v=mHsg2M25PzY)
 
-and here's my favourite batsman playing my favourite shot
+and here's my favourite batsman playing my favourite shot - the upper cut
 
 ![Sachin upper cut](./images/Sachin-Tendulkar.jpeg)
