@@ -15,4 +15,4 @@ has_toc: false
 
 and here's my favourite batsman playing my favourite shot - the upper cut
 
-![Sachin upper cut](./images/Sachin-Tendulkar.jpeg)
+![Sachin upper cut](/docs/images/Sachin-Tendulkar.jpeg)
