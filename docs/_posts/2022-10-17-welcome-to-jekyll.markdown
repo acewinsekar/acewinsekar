@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll, Ashwin!"
 date:   2022-10-17 18:37:54 +0530
-categories: jekyll update
 ---
 
 Testing this page whether it currently updates.
