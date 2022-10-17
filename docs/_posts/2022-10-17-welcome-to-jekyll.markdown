@@ -2,9 +2,10 @@
 layout: post
 title:  "Welcome to Jekyll, Ashwin!"
 date:   2022-10-17 18:37:54 +0530
+categories: jekyll update
 ---
 
-### categories: jekyll update is a yaml front matter setting that's used to file away blogs in various categories
+### categories: just learnt that categories is a yaml front matter setting that's used to file away blogs in various categories without needing to create folders
 
 
 Testing this page whether it currently updates.
