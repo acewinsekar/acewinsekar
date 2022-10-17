@@ -4,6 +4,9 @@ title:  "Welcome to Jekyll, Ashwin!"
 date:   2022-10-17 18:37:54 +0530
 ---
 
+### categories: jekyll update is a yaml front matter setting that's used to file away blogs in various categories
+
+
 Testing this page whether it currently updates.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
